@@ -109,3 +109,7 @@ const init = function () {
   addRecipeView._addHandlerUpload(controlAddRecipe);
 };
 init();
+const newFeature = function () {
+  console.log('welcome to the new application');
+};
+newFeature();
